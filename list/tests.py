@@ -1,0 +1,1 @@
+self.assertTrue(html.strip().endswith('</html>'))
