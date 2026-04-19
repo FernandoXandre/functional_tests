@@ -1,0 +1,1 @@
+De forma geral, o processo TDD pode ser visto na figura abaixo: escrever o teste, rodar o teste e verificar se falha, escrever algum código da aplicação, rodar o teste novamente e repetir até passar. Adicionalmente, podemos refatorar nosso código, utilizando sempre o teste para garantir que não quebramos nada.
